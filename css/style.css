@@ -888,6 +888,7 @@ h1, h2, h3, h4, h5,
     margin-left: 0 !important; }
   .site-block-tab .nav-item > a {
     padding-left: 0 !important;
+      background: #fff;
     background: none !important;
     padding-right: 0 !important;
     border-bottom: 2px solid transparent;
@@ -1277,7 +1278,7 @@ h1, h2, h3, h4, h5,
       transform: translate(-50%, -50%); }
 
 .free-quote {
-  background: ##2a7c4f; }
+  background: #2a7c4f; }
   .free-quote .form-control {
     border: 2px solid rgba(255, 255, 255, 0.5);
     background: none;
