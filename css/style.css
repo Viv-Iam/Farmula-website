@@ -141,11 +141,11 @@ h1, h2, h3, h4, h5,
   .site-footer .border-top {
     border-top: 1px solid rgba(255, 255, 255, 0.1) !important; }
   .site-footer p {
-    color: #737373; }
+    color: #E3DADA; }
   .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5 {
     color: #fff; }
   .site-footer a {
-    color: #999999; }
+    color: #E3DADA; }
     .site-footer a:hover {
       color: white; }
   .site-footer ul li {
