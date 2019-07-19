@@ -289,9 +289,9 @@ h1, h2, h3, h4, h5,
   .site-navbar .site-navigation .site-menu {
     margin-bottom: 0; }
     .site-navbar .site-navigation .site-menu .active > a {
-      color: #2a7c4f; }
+      color: #fff; }
     .site-navbar .site-navigation .site-menu a.active {
-      color: #2a7c4f; }
+      color: #fff; }
     .site-navbar .site-navigation .site-menu a {
       text-decoration: none !important;
       display: inline-block;
@@ -400,7 +400,7 @@ h1, h2, h3, h4, h5,
           visibility: visible;
           opacity: 1; }
   .site-navbar.scrolled {
-    background-color: #fff;
+    background-color: #2a7c4f;
     position: fixed;
     width: 100%;
     left: 0;
@@ -421,13 +421,13 @@ h1, h2, h3, h4, h5,
       -o-transition: .3s all ease-out;
       transition: .3s all ease-out; }
     .site-navbar.scrolled .site-menu-toggle {
-      color: #000; }
+      color: #fff; }
     .site-navbar.scrolled .site-navigation .site-menu li a {
-      color: #000; }
+      color: #fff; }
       .site-navbar.scrolled .site-navigation .site-menu li a.active {
-        color: #2a7c4f; }
+        color: #000; }
     .site-navbar.scrolled .site-logo a {
-      color: #000 !important; }
+      color: #fff !important; }
 
 .site-mobile-menu {
   width: 300px;
